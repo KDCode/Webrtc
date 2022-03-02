@@ -1,0 +1,19 @@
+
+1.npx create-react-app frontend
+2.Clear th unwanted things
+3.Frontend 
+	-yarn add react-router-dom
+	-make routes in app.js
+		-registration 
+			By hash maping
+	-make folder structure
+		-Home
+		-Components(Chldren and prop function in react)
+			-jsx
+			-.module.css
+
+
+
+
+
+	
